@@ -1,0 +1,4 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { background: #0a0d13; color: #e2e8f0; font-family: 'Syne', sans-serif; min-height: 100vh; }
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-thumb { background: #2d3748; border-radius: 2px; }
